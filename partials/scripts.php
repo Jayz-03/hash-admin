@@ -1,4 +1,7 @@
-<script src="vendors/scripts/core.js"></script>
-<script src="vendors/scripts/script.min.js"></script>
-<script src="vendors/scripts/process.js"></script>
-<script src="vendors/scripts/layout-settings.js"></script>
+<script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/vendors/apexcharts/apexcharts.js"></script>
+<script src="assets/js/pages/dashboard.js"></script>
+
+<script src="assets/js/main.js"></script>
